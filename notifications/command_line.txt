@@ -15,3 +15,6 @@ java  \
 "-Dcomm=${COMMENT}" \
 "-Dconfig.file=./notifications/telegram_config.json" \
 -jar ./notifications/allure-notifications-3.1.2.jar
+
+  "token": "5100119620:AAEcPtpa5MQD-HRpFE1-gmrC92o4wjKxp4A",
+      "chat": "-1001625293290",

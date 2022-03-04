@@ -7,7 +7,7 @@
     },
     "base": {
       "lang": "en",
-      "messenger": "slack",
+      "messenger": "telegram",
       "allureFolder": "./allure-report/",
       "allureLinkPath": "allure",
       "chart": true,
